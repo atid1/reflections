@@ -1,0 +1,1 @@
+It was easy to find the bug, as the lines that were shown are only the ones that changed.
